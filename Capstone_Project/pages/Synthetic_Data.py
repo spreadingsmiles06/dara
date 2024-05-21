@@ -337,8 +337,8 @@ def main():
 		# Display the DataFrame
 		print(synthetic_df.head)
 
-		pdf_output_folder = "/home/ubuntu/ISB_Project/pdf"
-		zip_file_path = "/home/ubuntu/ISB_Project/output.zip"
+		pdf_output_folder = "Capstone_Project/pdf"
+		zip_file_path = "Capstone_Project/pdf/output.zip"
 
 		# Generate PDFs and collect their paths
 		pdf_paths = []
